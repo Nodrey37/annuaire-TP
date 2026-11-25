@@ -1,0 +1,25 @@
+.contain-cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.person-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #fffffe;
+  border-radius: 5px;
+  padding: 10px;
+  width: 30%;
+}
+
+.person-card img {
+  border-radius: 50%;
+  width: 100px;
+}
+.person-card h2,
+.person-card p {
+  text-align: center;
+}

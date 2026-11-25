@@ -1,0 +1,6 @@
+Header{
+    background-color: #2563eb; /* Couleur de fond (bleu) */
+    color: #ffffff;            /* Couleur du texte (blanc) */
+    padding: 20px;             /* Espace intérieur pour aérer */
+    text-align: left;        /* Centrage du texte */
+}
